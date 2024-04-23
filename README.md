@@ -1,12 +1,8 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=harshmons&label=Profile%20views&color=0e75b6&style=flat" alt="harshmons" />
 </p>
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=harshmons" alt="harshmons" />
-    </a>
-</p>
 
+<a href="https://gitroll.io/profile/uGCWfxyvBb0f6BXgA5lCtPuBBkox1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGCWfxyvBb0f6BXgA5lCtPuBBkox1" alt="GitRoll Profile Badge"/></a>
 
 ## About Me
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -62,6 +58,11 @@ https://medium.com/@harshverma04111989
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=harshmons" alt="harshmons" />
+    </a>
+</p>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshmons&show_icons=true&locale=en&layout=compact" alt="harshmons" />
 </p>
